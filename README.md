@@ -81,8 +81,5 @@ terraform destroy -auto-approve
 - Modify variables in `variables.tf` as needed.
 
 ## Author
-[Your Name]
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+Prasad Reddy
 
